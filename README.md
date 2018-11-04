@@ -10,7 +10,7 @@ Here are some example sounds of different foods and beverage nutritional data, r
 
 
 ### 1. Starbucks Pumpkin Spice Latte (Venti, Whole Milk)
-![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jp2?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")
+![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jpg?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")
 ![image of pumpkin spice latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/pslatte.png?raw=true "Starbucks Pumpkin Spice Latte Nutrition (Venti, Whole Milk)")
 
 Download sound of a [Pumpkin Spice Latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true) 
