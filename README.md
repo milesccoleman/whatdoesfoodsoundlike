@@ -13,14 +13,14 @@ Here are some example sounds of different foods and beverage nutritional data, r
 ![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jpg?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")
 ![image of pumpkin spice latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/pslatte.png?raw=true "Starbucks Pumpkin Spice Latte Nutrition (Venti, Whole Milk)")
 
-Download sound of a [Pumpkin Spice Latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true) 
+Download sound of a [Pumpkin Spice Latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true)("Right-Click and "Download Linked File")  
 
 
 ### 2. McDonald's Big Mac
 ![image of big mac](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/bigmac.png?raw=true "McDonald's Big Mac")
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/mcbigmac.png?raw=true "McDonald's Big Mac Nutrition")
 
-Download sound of a [Big Mac](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/big_mac.wav?raw=true)
+Download sound of a [Big Mac](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/big_mac.wav?raw=true)("Right-Click and "Download Linked File")  
 
 
 ### 3. Wendy's Garden Salad 
@@ -28,14 +28,14 @@ Download sound of a [Big Mac](https://github.com/milesccoleman/whatdoesfoodsound
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendyssalad.png?raw=true "Wendy's Garden Salad Nutrition")
 
 Download the sound of a [Garden Salad]
-(https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true)
+(https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true)("Right-Click and "Download Linked File")  
 
 
 ### 4. Quaker Oats 
 ![image of oats](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/oats.jpeg?raw=true "Quaker Oats")
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakeroats.png?raw=true "Quaker Oats Nutrition")
 
-Download the sound of [Oats](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakersoatmealplain.wav?raw=true)
+Download the sound of [Oats](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakersoatmealplain.wav?raw=true)("Right-Click and "Download Linked File")  
 
 
 To try it yourself: 
