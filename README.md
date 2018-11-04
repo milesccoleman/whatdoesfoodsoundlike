@@ -27,8 +27,7 @@ Download sound of a [Big Mac](https://github.com/milesccoleman/whatdoesfoodsound
 ![image of salad](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/salad.png?raw=true "Wendy's Garden Salad")
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendyssalad.png?raw=true "Wendy's Garden Salad Nutrition")
 
-Download the sound of a [Garden Salad]
-(https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true) ("Right-Click and "Download Linked File")  
+Download the sound of a [Garden Salad](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true) ("Right-Click and "Download Linked File")  
 
 
 ### 4. Quaker Oats 
