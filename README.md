@@ -1,6 +1,4 @@
-# what_does_food_sound_like
-
-# Example of Data Sonification Meant to Help Thinking About Nutrition
+# Example of Data Sonification for Thinking About Nutrition
 
 This is a simple script written for use on [SonicPi](https://sonic-pi.net). The idea was inspired by Shawn Graham's thoughtful [writing and tutorials](https://programminghistorian.org/en/lessons/sonification#sonic-pi) on sonifying historical data. 
 
