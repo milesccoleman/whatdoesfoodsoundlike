@@ -10,7 +10,7 @@ Based on the metrics of sodium, fat, and carbohydrates, the script generates spe
 
 Here are some example sounds of differnet foods and beverage nutritional data, rendered .wav format. 
 
-![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jp2?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")(https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true}
+[![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jp2?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true}
 
 To try it yourself: 
 1. Clone the [repository](https://github.com/milesccoleman/whatdoesfoodsoundlike), or download the [zip](https://github.com/milesccoleman/whatdoesfoodsoundlike/archive/master.zip). 
