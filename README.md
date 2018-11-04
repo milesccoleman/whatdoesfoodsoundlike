@@ -1,4 +1,4 @@
-# Example of Data Sonification for Thinking About Nutrition
+# Example of Data Sonification for Thinking about Nutrition
 
 This is a simple script written for use on [SonicPi](https://sonic-pi.net). The idea was inspired by Shawn Graham's thoughtful [writing and tutorials](https://programminghistorian.org/en/lessons/sonification#sonic-pi) on sonifying historical data. 
 
