@@ -13,8 +13,10 @@ Here are some example sounds of different foods and beverage nutritional data, r
 ![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jpg?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")
 ![image of pumpkin spice latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/pslatte.png?raw=true "Starbucks Pumpkin Spice Latte Nutrition (Venti, Whole Milk)")
 
-Download sound of a [Pumpkin Spice Latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true) ("Right-Click and "Download Linked File")  
-
+Hear sound of a Pumpkin Spice Latte 
+<audio controls>
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true" type="audio/ogg">
+</audio>
 
 ### 2. McDonald's Big Mac
 ![image of big mac](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/bigmac.png?raw=true "McDonald's Big Mac")
