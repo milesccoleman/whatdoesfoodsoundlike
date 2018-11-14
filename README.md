@@ -15,7 +15,7 @@ Here are some example sounds of different foods and beverage nutritional data, r
 
 **Hear sound of a Pumpkin Spice Latte** 
 <audio controls>
-  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true" type="audio/ogg">
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true" type="audio/wav">
 </audio>
 
 ### 2. McDonald's Big Mac
@@ -24,9 +24,8 @@ Here are some example sounds of different foods and beverage nutritional data, r
 
 **Hear sound of a Big Mac** 
 <audio controls>
-  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/big_mac.wav?raw=true" type="audio/ogg">
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/big_mac.wav?raw=true" type="audio/wav">
 </audio>
-
 
 ### 3. Wendy's Garden Salad 
 ![image of salad](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/salad.png?raw=true "Wendy's Garden Salad")
@@ -34,7 +33,7 @@ Here are some example sounds of different foods and beverage nutritional data, r
 
 **Hear sound of a Wendy's Garden Salad** 
 <audio controls>
-  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true" type="audio/ogg">
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true" type="audio/wav">
 </audio>
 
 ### 4. Quaker Oats 
@@ -43,7 +42,7 @@ Here are some example sounds of different foods and beverage nutritional data, r
 
 **Hear sound of Quaker's Oats** 
 <audio controls>
-  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakersoatmealplain.wav?raw=true" type="audio/ogg">
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakersoatmealplain.wav?raw=true" type="audio/wav">
 </audio>
 
 To try it yourself: 
