@@ -13,7 +13,7 @@ Here are some example sounds of different foods and beverage nutritional data, r
 ![image of latte](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/latte.jpg?raw=true "Starbucks Pumpkin Spice Latte (Venti, Whole Milk)")
 ![image of pumpkin spice latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/pslatte.png?raw=true "Starbucks Pumpkin Spice Latte Nutrition (Venti, Whole Milk)")
 
-Hear sound of a Pumpkin Spice Latte 
+**Hear sound of a Pumpkin Spice Latte** 
 <audio controls>
   <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/ventiwholemilkpumpkinspicelatte.wav?raw=true" type="audio/ogg">
 </audio>
@@ -22,22 +22,29 @@ Hear sound of a Pumpkin Spice Latte
 ![image of big mac](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/bigmac.png?raw=true "McDonald's Big Mac")
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/mcbigmac.png?raw=true "McDonald's Big Mac Nutrition")
 
-Download sound of a [Big Mac](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/big_mac.wav?raw=true) ("Right-Click and "Download Linked File")  
+**Hear sound of a Big Mac** 
+<audio controls>
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/big_mac.wav?raw=true" type="audio/ogg">
+</audio>
 
 
 ### 3. Wendy's Garden Salad 
 ![image of salad](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/salad.png?raw=true "Wendy's Garden Salad")
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendyssalad.png?raw=true "Wendy's Garden Salad Nutrition")
 
-Download the sound of a [Garden Salad](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true) ("Right-Click and "Download Linked File")  
-
+**Hear sound of a Wendy's Garden Salad** 
+<audio controls>
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/wendysgardensidesalad.wav?raw=true" type="audio/ogg">
+</audio>
 
 ### 4. Quaker Oats 
 ![image of oats](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/oats.jpeg?raw=true "Quaker Oats")
 ![image of big mac latte nutritional value](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakeroats.png?raw=true "Quaker Oats Nutrition")
 
-Download the sound of [Oats](https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakersoatmealplain.wav?raw=true) ("Right-Click and "Download Linked File")  
-
+**Hear sound of Quaker's Oats** 
+<audio controls>
+  <source src="https://github.com/milesccoleman/whatdoesfoodsoundlike/blob/master/quakersoatmealplain.wav?raw=true" type="audio/ogg">
+</audio>
 
 To try it yourself: 
 1. Clone the [repository](https://github.com/milesccoleman/whatdoesfoodsoundlike), or download the [zip](https://github.com/milesccoleman/whatdoesfoodsoundlike/archive/master.zip). 
